@@ -33,7 +33,7 @@ src="https://img.shields.io/badge/Developer%20%3A-Tanvir Ahmod-red">
 
 <h3><b><i>🏆 Profile Statistics :</i></b></h3>
 <a href="https://github.com/Tanviirriiyad"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=tanviirriiyad&color=blueviolet&style=flat-square"></a>
-<a href="https://github.com/Tanviirriiyad/something/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/tanviirriiyad/something?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Tanviirriiyad/tanviirriiyad/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/tanviirriiyadtanviirriiyad?label=Watchers&color=blue&style=flat-square"></a>
 <h3><b><i>📡 Get in Touch :</i></b></h3>
 <a href="https://github.com/Tanviirriiyad"><img align="left" title="Github" alt="Github" width="30px" src="github.png" /></a>
 <a href="https://www.facebook.com/profile.php?id=61560419285361"><img align="left" title="Facebook" alt="Facebook" width="30px" src="facebook.png" /></a>
