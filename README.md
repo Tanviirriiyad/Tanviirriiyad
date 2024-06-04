@@ -3,9 +3,9 @@
 
 <p align="center">
   <img
-src="https://img.shields.io/badge/Developer%20%3A-Tanvir Ahmod-blue">
+src="https://img.shields.io/badge/Developer%20%3A-Tanvir Ahmod-red">
 </p>
-<a><img src="https://github.com/Tanviirriiyad/something/blob/main/image/tanviirriiyad.jpg"  
+<a><img src="https://github.com/Tanviirriiyad/Tanviirriiyad/blob/main/image/tanviirriiyad.jpg"  
 <p align="center"><a href="https://github.com/Tanviirriiyad">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanviirriiyad&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 &nbsp;&nbsp;&nbsp;
@@ -26,23 +26,7 @@ src="https://img.shields.io/badge/Developer%20%3A-Tanvir Ahmod-blue">
 ###
 
 <p/>
-  <img src="https://img.shields.io/badge/Total%20Using-Language-brightgreen">
-<p align="center">
-  <img src="https://img.shields.io/badge/1.-Python-cyan">
-  <img src="https://img.shields.io/badge/2.-JavaScript-green">
-  <img src="https://img.shields.io/badge/3.-HTML-yellowgreen">
-  <img src="https://img.shields.io/badge/4.-Shell-yellow">
-  <img src="https://img.shields.io/badge/5.-PHP-blue">
-  <img src="https://img.shields.io/badge/6.-Java-cyan">
-  <img src="https://img.shields.io/badge/7.-Ruby-orange">
-  <img src="https://img.shields.io/badge/8.-TypeScript-cyan">
-  <img src="https://img.shields.io/badge/9.-Lua-green">
-  <img src="https://img.shields.io/badge/10.-Vue-blue">
-  <img src="https://img.shields.io/badge/11.-YAML-yellow">
-  <img src="https://img.shields.io/badge/12.-JSON-red">
-<h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/TaNviiR-RiiYaD/TAR-B">TAR-B - Bombing Tools Here Have many Bombing way.</a>
-<li> <a 
+
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/Tanviirriiyad"><img width=550 src="https://github-profile-trophy.vercel.app/?username=Tanviirriiyad&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
